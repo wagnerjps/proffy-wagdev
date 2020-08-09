@@ -1,0 +1,31 @@
+{
+  "name": "proffy-server",
+  "version": "1.0.0",
+  "description": "Aplicação voltada para aulas, backend da aplicação proffy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node dist/src/server.js",
+    "build": "rimraf dist && tsc",
+    "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn src/server.ts",
+    "knex:migrate": "knex --knexfile knexfile.ts migrate:latest",
+    "knex:migrate:rollback": "knex --knexfile knexfile.ts migrate:rollback"
+  },
+  "author": "Wagner Silva (WagDev)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cors": "^2.8.7",
+    "@types/express": "^4.17.7",
+    "rimraf": "^3.0.2",
+    "ts-node-dev": "^1.0.0-pre.56",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.21.2",
+    "pg": "^8.3.0",
+    "sqlite3": "^5.0.0",
+    "ts-node": "^8.10.2"
+  }
+}

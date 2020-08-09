@@ -1,0 +1,14 @@
+node_modules
+node_modules/**/*
+/node_modules/**/*
+
+.env
+/.env/**/*
+/**/.env
+
+.git
+/.git/**/*
+
+/server/.git
+/serverjs/.git
+/web/.git
