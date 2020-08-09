@@ -36,12 +36,11 @@
 
 # 📌 Tabela de Conteúdo
 
-* [Site de Demostração](https://proffy-wagdev.vercel.app/#eyes-site-de-demostração) 
+* [Site de Demostração](#earth_americas-site-de-demostração) 
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
-* [Como rodar](#construction_worker-como-rodar)
+* [Como rodar](#hammer-como-rodar)
 * [Encontrou um bug? Ou está faltando uma feature?](#bug-problemas)
-* [Contribuindo](#tada-contribuindo)
 * [Licencia](#closed_book-licencia)
 
 ### 📺 Web Screenshot
@@ -63,12 +62,12 @@
    <img src="./gitImages/mobile_screen_004.jpg" style="margin-left: 4px;" width="180">
 </div>
 
-# 🔮 Site de Demostração
+# :earth_americas: Site de Demostração
 Você pode acessar o site em:     
-👉  demo: https://proffy-wagdev.vercel.app/ 
+👉  demo: https://proffy-wagdev.vercel.app/ e testas suas funcionalidades.
      
 
-# 💻 Tecnologias
+# :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
 
 * [React](https://reactjs.org/)      
@@ -77,12 +76,12 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 * [Knex](http://knexjs.org/) 
 * [Typescript](https://www.typescriptlang.org/) 
 
-# 🚀 Funcionalidades
+# :rocket: Funcionalidades
 
 * Site para cadastro de estudante e professores.
 * App para conectar estudantes e professores.
 
-# 🔨 Como rodar
+# :hammer: Como rodar
 ```bash
 # Clone o Repositório
 
@@ -134,7 +133,7 @@ $ yarn start ou npm run start
 Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
 
-# 🐛 Problemas
+# :bug: Problemas
 
 Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/wagnerjps/Proffy/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
 
