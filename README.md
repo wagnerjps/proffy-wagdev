@@ -40,7 +40,7 @@
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#hammer-como-rodar)
-* [Encontrou um bug? Ou está faltando uma feature?](#bug-problemas)
+* [Encontrou um bug?](#bug-problemas)
 * [Licencia](#closed_book-licencia)
 
 ### 📺 Web Screenshot
@@ -135,7 +135,7 @@ Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/deta
 
 # :bug: Problemas
 
-Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/wagnerjps/Proffy/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
+Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [Proffy WagDev](https://github.com/wagnerjps/proffy-wagdev/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
 
 
 # :closed_book: Licencia
